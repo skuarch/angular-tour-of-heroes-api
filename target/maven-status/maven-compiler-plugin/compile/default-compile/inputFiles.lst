@@ -1,0 +1,9 @@
+/home/skuarch/JavaProjects/angular-tour-of-heroes-api/src/main/java/application/config/WebSocketConfig.java
+/home/skuarch/JavaProjects/angular-tour-of-heroes-api/src/main/java/model/dto/HeroDto.java
+/home/skuarch/JavaProjects/angular-tour-of-heroes-api/src/main/java/model/repository/HeroRepository.java
+/home/skuarch/JavaProjects/angular-tour-of-heroes-api/src/main/java/business/service/HeroBusinessService.java
+/home/skuarch/JavaProjects/angular-tour-of-heroes-api/src/main/java/controller/HeroController.java
+/home/skuarch/JavaProjects/angular-tour-of-heroes-api/src/main/java/components/WebSocketHandler.java
+/home/skuarch/JavaProjects/angular-tour-of-heroes-api/src/main/java/model/entity/HeroEntity.java
+/home/skuarch/JavaProjects/angular-tour-of-heroes-api/src/main/java/application/AngularTourOfHeroesApplication.java
+/home/skuarch/JavaProjects/angular-tour-of-heroes-api/src/main/java/service/HeroService.java

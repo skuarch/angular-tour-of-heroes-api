@@ -1,0 +1,9 @@
+model/dto/HeroDto.class
+application/config/WebSocketConfig.class
+model/repository/HeroRepository.class
+service/HeroService.class
+application/AngularTourOfHeroesApplication.class
+controller/HeroController.class
+model/entity/HeroEntity.class
+components/WebSocketHandler.class
+business/service/HeroBusinessService.class

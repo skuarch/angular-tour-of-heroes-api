@@ -45,6 +45,11 @@ public class HeroService {
     
     public List<HeroEntity> getHeroes() {
         return heroRepository.findAll();
-    }    
+    }   
+    
+    
+    public HeroEntity createHero(HeroEntity heroEntity) {         
+        return heroRepository.save(heroEntity);
+    }
 
 }
